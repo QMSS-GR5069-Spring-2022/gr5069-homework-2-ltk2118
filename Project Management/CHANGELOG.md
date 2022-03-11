@@ -1,5 +1,7 @@
 # Changelog
 
+This is the place to track changes in the project
+
 ## v0.0.2 (16/12/2021)
 
 - Bug fixes with `tools.dotsplot`. Graph titles now display correctly.

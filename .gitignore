@@ -142,6 +142,7 @@ dmypy.json
 
 # MacOS
 .DS_Store
+.db
 
 # Others
 .readthedocs.yml

@@ -9,6 +9,9 @@ Moving forward, I will add more functionality to each module, so that users may 
 ## Installation
 
 ```python
+!pip install pandas
+!pip install requests
+!pip install matplotlib
 !pip install imfpy
 ```
 
